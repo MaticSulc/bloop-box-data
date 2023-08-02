@@ -8,7 +8,7 @@ to get your own static audio files into the system.
 
 1. Fork this project, either to another GitHub account or your private git
    repository.
-2. Replace all occurrences of `bloop-box-data-example` in the `debian` folder
+2. Replace all occurrences of `bloop-box-data` in the `debian` folder
    with your own package name in all files and their file names.
 4. Don't forget to update the `debian/.gitignore` file with the changed names
    as well.

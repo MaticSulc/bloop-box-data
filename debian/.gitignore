@@ -1,6 +1,6 @@
-/bloop-box-data-example/
+/bloop-box-data/
 /.debhelper/
-/bloop-box-data-example.substvars
+/bloop-box-data.substvars
 /debhelper-build-stamp
 /files
 

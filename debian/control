@@ -1,12 +1,12 @@
-Source: bloop-box-data-example
+Source: bloop-box-data
 Section: games
 Priority: optional
-Maintainer: DASPRiD <mail@dasprids.de>
+Maintainer: Matic <maticsulc0@gmail.com>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
 
-Package: bloop-box-data-example
+Package: bloop-box-data
 Architecture: all
 Depends: ${misc:Depends}
 Provides: bloop-box-data
